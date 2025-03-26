@@ -27,7 +27,7 @@ class Computer implements Callable<Void> {
     }
 }
 
-public class ccvcb {
+public class ccwcb {
     public static void main(String[] args) {
 
         AtomicInteger result = new AtomicInteger(0);

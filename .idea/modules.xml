@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/concurrent_calculation_with_cyclic_barrier/concurrent_calculation_with_cyclic_barrier.iml" filepath="$PROJECT_DIR$/concurrent_calculation_with_cyclic_barrier/concurrent_calculation_with_cyclic_barrier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_parallel_programming.iml" filepath="$PROJECT_DIR$/java_parallel_programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking_lot_synchronization_simulation/parking_lot_synchronization_simulation.iml" filepath="$PROJECT_DIR$/parking_lot_synchronization_simulation/parking_lot_synchronization_simulation.iml" />
+    </modules>
+  </component>
+</project>
